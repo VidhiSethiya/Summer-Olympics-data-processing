@@ -1,4 +1,4 @@
-# Summer-Olympics-Data-Processing-
+#  ETG AI/ML Internship-Summer-Olympics-Data-Processing-
 This repository is having all the codes in ipynb file with summer olympics dataset for Processing and visualising this data set  during ETG AI/ML Internship.
 
 ## About Repository?
